@@ -1,5 +1,5 @@
 // package visitor;
-package bank;
+package task2;
 
 import java.util.UUID;
 import java.util.function.Consumer;

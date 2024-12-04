@@ -20,4 +20,3 @@ public class Banknote100 extends Banknote {
     //     nextItem.process(amount % 100);
     // }
 }
-''
